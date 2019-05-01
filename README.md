@@ -1,5 +1,9 @@
 # SimpleGoogleSignin
 
+Simple and complete implementation of Google Signin in Angular2. 
+
+Following [https://stackoverflow.com/questions/38846232/how-to-implement-signin-with-google-in-angular-2-using-typescript/39770500](https://stackoverflow.com/questions/38846232/how-to-implement-signin-with-google-in-angular-2-using-typescript/39770500) post.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
